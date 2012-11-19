@@ -1,3 +1,14 @@
+walrus_apitest_concurrent
+=========================
+
+## Description
+
+Make 10 connections running Walrus API tests
+
+## Procedure
+
+1. Run 10 connections at the same time doing the same procedure as Walrus API
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
